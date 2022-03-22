@@ -2,7 +2,7 @@
 
 ## :dart: Description & objective
 
-For insurance companies to remain profitable, clients’ rates often have to be raised upon contract renewal. However, customers may choose to cancel their policy if charged excessively. This difficulty makes personalizing insurance renewal prices a complex task, and in 2020, four CentraleSupélec students and I took on the challenge of improving an insurance company’s baseline solution to this problem.
+For insurance companies to remain profitable, clients’ rates often have to be raised upon contract renewal. However, customers may choose to cancel their policy if charged excessively. This difficulty makes personalizing insurance renewal prices a complex task, and in 2020, four CentraleSupélec students and I took on the challenge of improving an insurance company’s baseline solution to this problem in three months.
 
 In a few words:
 <p align="center">
